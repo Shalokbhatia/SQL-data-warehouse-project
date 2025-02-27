@@ -30,5 +30,5 @@ Access structured project phases, tasks, and milestones for streamlined executio
 
 ## Data Architecture
 
-![Data Architecture](docs/data_architecture.png)(‪C:\Users\xyz\Documents\DATA WAREHOUSE PROJECT\Data warehouse digrame.drawio.png)
+![Data Architecture](docs/Data warehouse digrame.drawio.png)
 
