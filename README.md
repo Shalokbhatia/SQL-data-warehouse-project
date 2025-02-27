@@ -28,7 +28,7 @@ An all-in-one workspace for organizing project tasks, documentation, and collabo
 ### 🚀 Project Workflow in Notion  
 Access structured project phases, tasks, and milestones for streamlined execution.  
 
-## Data Architecure 
+## Data Architecture
 
-![data flow](‪C:\Users\xyz\Documents\DATA WAREHOUSE PROJECT\Data warehouse digrame.drawio.png)
+![Data Architecture](docs/data_architecture.png)(‪C:\Users\xyz\Documents\DATA WAREHOUSE PROJECT\Data warehouse digrame.drawio.png)
 
