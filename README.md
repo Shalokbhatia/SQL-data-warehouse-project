@@ -32,8 +32,6 @@ ______
 ## 📊 Data Warehouse Architecture (Bronze-Silver-Gold)
 This project follows a structured Bronze-Silver-Gold data architecture, ensuring efficient data processing, transformation, and consumption.
 
-Sources: Data Ingestion
----
 ### 🟤 Bronze Layer:
 Stores raw data as received from source systems (CRM, ERP) without modifications. Data is ingested from CSV files into the SQL Server Database for initial storage.
 
