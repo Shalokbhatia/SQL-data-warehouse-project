@@ -30,5 +30,5 @@ Access structured project phases, tasks, and milestones for streamlined executio
 
 ## Data Architecture
 
-![Data Architecture](docs/Data warehouse digrame.drawio.png)
+![Data Architecture](https://github.com/Shalokbhatia/SQL-data-warehouse-project/blob/main/docs/data_archi.png)
 
