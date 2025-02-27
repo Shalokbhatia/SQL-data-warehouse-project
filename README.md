@@ -43,3 +43,24 @@ Contains business-ready data, structured using a star schema for efficient repor
 
 ![Data Architecture](https://github.com/Shalokbhatia/SQL-data-warehouse-project/blob/main/docs/data_archi.png)
 
+## Data Modeling 
+### Star Schema Design 🌟
+![Data Modeling](
+Description:
+A Star Schema is a type of database schema where the Fact Table is at the center and is connected to multiple Dimension Tables. This structure is designed to simplify complex queries and make data analysis efficient.
+
+Process:
+
+Fact Tables 📊: These tables store quantitative data or metrics like sales revenue, quantity sold, etc. They typically contain the key performance indicators (KPIs) that analysts want to measure.
+Dimension Tables 🏷️: These tables store descriptive data that provides context for the facts, such as customer information, time periods, or product categories. They help categorize or filter the facts for meaningful insights.
+The key idea of the star schema is to have a central fact table linked to multiple dimension tables, creating a "star-like" structure. 🌟 This schema design makes it easy to understand the relationships between the data, and it optimizes queries for reporting and analysis.
+
+3.2 Defining Primary and Foreign Keys 🔑
+Description:
+In a relational database, primary keys uniquely identify each record in a table, while foreign keys establish relationships between tables, helping us connect related data.
+
+Process:
+
+Primary Keys 🔑: In a Customer Dimension Table, the Customer_ID might be the primary key that uniquely identifies each customer.
+Foreign Keys 🔗: In a Sales Fact Table, you might have a Customer_ID as a foreign key, linking it to the Customer Dimension Table to pull customer-specific information (like name, location, etc.).
+
