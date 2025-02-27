@@ -30,5 +30,5 @@ Access structured project phases, tasks, and milestones for streamlined executio
 
 ## Data Architecure 
 
-![Alt Text](‪C:\Users\xyz\Documents\DATA WAREHOUSE PROJECT\Data warehouse digrame.drawio.png)
+![data flow](‪C:\Users\xyz\Documents\DATA WAREHOUSE PROJECT\Data warehouse digrame.drawio.png)
 
