@@ -1,4 +1,4 @@
-# SQL-data-warehouse-project
+# SQL-Data-Warehouse-Project
 ## Building a modern data warehouse project including ETL, data modeling, and analytics 
 ----
 Welcome to the Data Warehouse and Analytics Project Repository! 📊✨
@@ -27,7 +27,7 @@ An all-in-one workspace for organizing project tasks, documentation, and collabo
 
 ### 🚀 Project Workflow in Notion  
 Access structured project phases, tasks, and milestones for streamlined execution.  
-
+______
 ## Data Architecture
 
 ![Data Architecture](https://github.com/Shalokbhatia/SQL-data-warehouse-project/blob/main/docs/data_archi.png)
