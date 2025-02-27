@@ -28,7 +28,20 @@ An all-in-one workspace for organizing project tasks, documentation, and collabo
 ### 🚀 Project Workflow in Notion  
 Access structured project phases, tasks, and milestones for streamlined execution.  
 ______
-## Data Architecture
+
+## 📊 Data Warehouse Architecture (Bronze-Silver-Gold)
+This project follows a structured Bronze-Silver-Gold data architecture, ensuring efficient data processing, transformation, and consumption.
+
+Sources: Data Ingestion
+---
+### 🟤 Bronze Layer:
+Stores raw data as received from source systems (CRM, ERP) without modifications. Data is ingested from CSV files into the SQL Server Database for initial storage.
+
+### ⚪ Silver Layer: 
+Performs data cleansing, standardization, and normalization to enhance data quality and prepare it for analysis. This ensures consistency and usability across different datasets.
+
+### 🟡 Gold Layer: 
+Contains business-ready data, structured using a star schema for efficient reporting and analytics. Optimized views and aggregate tables enable seamless BI, reporting, and machine learning applications. 🚀
 
 ![Data Architecture](https://github.com/Shalokbhatia/SQL-data-warehouse-project/blob/main/docs/data_archi.png)
 
