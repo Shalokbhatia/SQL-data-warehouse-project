@@ -40,6 +40,11 @@ Create a modern data warehouse using SQL Server to gather and consolidate sales 
 #### Scope: Work only with the most recent dataset; there's no need to track historical data.
 #### Documentation: Provide clear documentation for the data model to assist both business stakeholders and analytics teams in understanding and using the data effectively.
 
+### Objective
+Develop SQL-based analytics to deliver detailed insights into:
+Customer Behavior
+Product Performance
+Sales Trends
 ____
 
 ## 📊 Data Warehouse Architecture (Bronze-Silver-Gold)
