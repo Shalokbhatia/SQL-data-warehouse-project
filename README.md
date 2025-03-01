@@ -42,9 +42,7 @@ Create a modern data warehouse using SQL Server to gather and consolidate sales 
 
 ### Objective
 Develop SQL-based analytics to deliver detailed insights into:
-Customer Behavior
-Product Performance
-Sales Trends
+Customer Behavior, Product Performance ,Sales Trends
 ____
 
 ## 📊 Data Warehouse Architecture (Bronze-Silver-Gold)
